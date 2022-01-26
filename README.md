@@ -1,2 +1,2 @@
-# https://victoriacarvalho.github.io/Curriculo-Bulma/
+# https://victoriacarvalho.github.io/CurriculoBulma/
 Alguns dados e habilidades em bulma
